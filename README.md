@@ -1,6 +1,6 @@
 * My python version is 3.8.10
 * No external library is used.
-* Run all the scripts from the `veyis` folder
+* Run all the scripts from the `root` folder
 ## NB
 
 * You can run the NB preprocess using the following command: <code> python3 src/NB_preprocess.py</code> 
